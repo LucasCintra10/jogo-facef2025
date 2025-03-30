@@ -48,14 +48,14 @@ Você joga como um mago que dispara feitiços para derrotar goblins que surgem a
 
     Ao final do jogo, sua pontuação será automaticamente enviada para o banco Firebase.
 
-    ### ---------------------------------------------------------------------------------------
+    ---
 
-    ![Imagem 1](/print-1.png)
+![Imagem 1](/print-1.png)
 
-    ### ---------------------------------------------------------------------------------------
+---
 
-    ![Imagem 2](/print-2.png)
+![Imagem 2](/print-2.png)
 
-    ### ---------------------------------------------------------------------------------------
+---
 
-    ![Imagem 3](/print-3.png)
+![Imagem 3](/print-3.png)
